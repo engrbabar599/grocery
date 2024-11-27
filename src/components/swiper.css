@@ -1,0 +1,24 @@
+
+  .swiper {
+    width: 100%;
+    height: 100%;
+    padding: 50px 0;
+  }
+  
+  .taste_section .swiper {
+    padding: 0;
+  }
+  
+
+  .swiper-slide {
+    width: fit-content !important;
+    /* height: 230px !important; */
+  }
+  
+  .winersSwiper img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
